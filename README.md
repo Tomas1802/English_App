@@ -1,0 +1,1 @@
+This is a very basic app made in Java using Android Studio. It uses a very basic web scraping technique to bring data about new words to learn every day. It gives you a context for each word to learn it. Is a very basic but usefull app!
